@@ -1,0 +1,33 @@
+Id:Name:StageName:Amount:Probability:ExpectedRevenue:CloseDate:Type:LeadSource:ForecastCategory:DeliveryInstallationStatus
+0065i0000058JrIAAU:Edge Emergency Generator:Closed Won:75000.0:100.0:75000.0:2022-06-01:New Customer:Word of mouth:Closed:Completed
+0065i0000058JrPAAU:Edge Installation:Closed Won:50000.0:100.0:50000.0:2022-03-23:Existing Customer - Upgrade:Word of mouth:Closed:Completed
+0065i0000058JrQAAU:Edge SLA:Closed Won:60000.0:100.0:60000.0:2022-02-16:Existing Customer - Upgrade:Word of mouth:Closed:Completed
+0065i0000058JreAAE:Edge Emergency Generator:Id. Decision Makers:35000.0:60.0:21000.0:2022-06-07:Existing Customer - Replacement:Pipeline:Closed:Completed
+0065i0000058JrXAAU:Burlington Textiles Weaving Plant Generator:Closed Won:235000.0:100.0:235000.0:2022-04-07:New Customer:Web:Closed:Yet to begin
+0065i0000058JrKAAU:Pyramid Emergency Generators:Prospecting:100000.0:10.0:10000.0:2022-04-10:Phone Inquiry:Pipeline:Closed:Completed
+0065i0000058JrAAAU:Dickenson Mobile Generators:Qualification:15000.0:10.0:1500.0:2022-04-14:New Customer:Purchased List:Pipeline:Completed
+0065i0000058JrEAAU:Grand Hotels Kitchen Generator:Id. Decision Makers:15000.0:60.0:9000.0:2022-02-21:Existing Customer - Upgrade:Pipeline:Yet to begin:Completed
+0065i0000058JrHAAU:Grand Hotels Guest Portable Generators:Value Proposition:250000.0:50.0:125000.0:2022-06-01:Existing Customer - Upgrade:Employee Referral:Pipeline:Yet to begin
+0065i0000058JrSAAU:Grand Hotels Generator Installations:Closed Won:350000.0:100.0:350000.0:2022-05-15:Existing Customer - Upgrade:External Referral:Closed:Completed
+0065i0000058JraAAE:Grand Hotels SLA:Closed Won:90000.0:100.0:90000.0:2022-02-23:Existing Customer - Upgrade:External Referral:Closed:In progress
+0065i0000058JrcAAE:Grand Hotels Emergency Generators:Closed Won:210000.0:100.0:210000.0:2022-05-13:New Customer:External Referral:Closed:Completed
+0065i0000058JrBAAU:United Oil Office Portable Generators:Negotiation/Review:125000.0:90.0:112500.0:2022-04-02:Existing Customer - Upgrade:Pipeline:Closed:Completed
+0065i0000058JrFAAU:United Oil Refinery Generators:Proposal/Price Quote:270000.0:75.0:202500.0:2022-05-17:Existing Customer - Upgrade:Pipeline:Yet to begin:Completed
+0065i0000058JrGAAU:United Oil SLA:Closed Won:120000.0:100.0:120000.0:2022-05-24:Existing Customer - Upgrade:Partner:Closed:In progress
+0065i0000058JrOAAU:United Oil Installations:Negotiation/Review:270000.0:90.0:243000.0:2022-03-29:Existing Customer - Upgrade:Pipeline:Yet to begin:Completed
+0065i0000058JrRAAU:United Oil Installations:Closed Won:270000.0:100.0:270000.0:2022-03-28:Existing Customer - Upgrade:Partner:Closed:In progress
+0065i0000058JrTAAU:United Oil Refinery Generators:Closed Won:915000.0:100.0:915000.0:2022-05-10:New Customer:Partner:Closed:Completed
+0065i0000058JrYAAU:United Oil Installations:Closed Won:235000.0:100.0:235000.0:2022-04-09:Existing Customer - Upgrade:External Referral:Closed:In progress
+0065i0000058JrZAAU:United Oil Emergency Generators:Closed Won:440000.0:100.0:440000.0:2022-03-22:Existing Customer - Upgrade:External Referral:Closed:Completed
+0065i0000058JrbAAE:United Oil Standby Generators:Closed Won:120000.0:100.0:120000.0:2022-05-25:Existing Customer - Upgrade:External Referral:Closed:Completed
+0065i0000058JrdAAE:United Oil Plant Standby Generators:Needs Analysis:675000.0:20.0:135000.0:2022-04-26:Existing Customer - Upgrade:Pipeline:Closed:Completed
+0065i0000058JrCAAU:Express Logistics Standby Generator:Closed Won:220000.0:100.0:220000.0:2022-02-26:New Customer:Trade Show:Closed:Completed
+0065i0000058JrLAAU:Express Logistics Portable Truck Generators:Value Proposition:80000.0:50.0:40000.0:2022-02-24:Existing Customer - Upgrade:External Referral:Pipeline:Yet to begin
+0065i0000058JrVAAU:Express Logistics SLA:Perception Analysis:120000.0:70.0:84000.0:2022-02-25:Existing Customer - Upgrade:External Referral:Pipeline:In progress
+0065i0000058JrJAAU:University of AZ Portable Generators:Closed Won:50000.0:100.0:50000.0:2022-03-02:New Customer:Public Relations:Closed:Completed
+0065i0000058JrUAAU:University of AZ Installations:Proposal/Price Quote:100000.0:75.0:75000.0:2022-02-27:Existing Customer - Upgrade:Employee Referral:Pipeline:Yet to begin
+0065i0000058JrWAAU:University of AZ SLA:Closed Won:90000.0:100.0:90000.0:2022-03-06:Existing Customer - Upgrade:Public Relations:Closed:In progress
+0065i0000058JrDAAU:GenePoint Standby Generator:Closed Won:85000.0:100.0:85000.0:2022-04-05:New Customer:Partner:Closed:Completed
+0065i0000058JrMAAU:GenePoint Lab Generators:Id. Decision Makers:60000.0:60.0:36000.0:2022-05-26:Pipeline:Yet to begin:Closed:Completed
+0065i0000058JrNAAU:GenePoint SLA:Closed Won:30000.0:100.0:30000.0:2022-05-29:Existing Customer - Upgrade:Partner:Closed:In progress
+:::::::Existing Customer - Upgrade:External Referral:Closed:Completed
